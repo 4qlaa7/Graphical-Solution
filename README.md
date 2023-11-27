@@ -8,6 +8,6 @@ Insert the equations and the state of the problem (Maximization / Minimization) 
 Before running the code install pulp Library using:
   *!pip install pulp*
 
-After installing the pulp and rinning the code you will get the graphical solution for the constraints
+After installing the pulp and running the code you will get the graphical solution for the constraints
 
 
